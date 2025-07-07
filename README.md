@@ -1,6 +1,6 @@
-# GitHub Project Showcase Slider
+# GitHub Project Auto-Population Slider
 
-A lightweight, responsive component that fetches your latest GitHub repositories with the GitHub REST API and presents them in a sleek Swiper.js carousel.
+A lightweight, responsive component that fetches your latest GitHub repositories with the GitHub REST API and presents them in a sleek Swiper.js carousel onto your website.
 
 ---
 
