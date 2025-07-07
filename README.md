@@ -96,11 +96,11 @@ Check it out here: https://oheenrahman.com/
    <script src="script.js" defer></script>
    ```
 
-3. **Update the username** (optional):  
+3. **Update the username**:  
    Inside `script.js`, change:
 
    ```js
-   const username = ["username"];
+   const username = "username";
    ```
 
    to your GitHub handle.
