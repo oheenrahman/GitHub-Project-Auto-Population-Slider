@@ -1,5 +1,5 @@
 (async () => {
-  const username = "oheenrahman";                   
+  const username = "username"; // Replace with your GitHub username             
   const endpoint = `https://api.github.com/users/${username}/repos?per_page=100&sort=updated`;
 
   try {
